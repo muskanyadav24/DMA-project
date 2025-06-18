@@ -18,7 +18,7 @@ int main(){
 
     delete name;
     delete std;
-    delet section;
+    delete section;
 
     return 0;
 }
