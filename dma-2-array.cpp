@@ -1,3 +1,5 @@
+// 2. Write a C++ program to dynamically allocate an array of integers and strings and initialize its elements.
+
 #include<iostream>
 using namespace std;
 int main(){
