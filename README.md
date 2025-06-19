@@ -9,9 +9,16 @@ Q-3. Write a C++ program to dynamically create an object of a class using the ne
 Q-4. WAP print bellow pattern.
 
 ->   4  4  4  4  4  4  4 
+
      4  3  3  3  3  3  4 
+     
      4  3  2  2  2  3  4 
+     
      4  3  2  1  2  3  4 
+     
      4  3  2  2  2  3  4 
+     
      4  3  3  3  3  3  4 
+     
      4  4  4  4  4  4  4 
+     
