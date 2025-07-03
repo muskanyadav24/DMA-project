@@ -1,4 +1,4 @@
-DMA Project – C++ Practice Tasks
+# DMA Project –  C++ Practice Tasks
 
 This repository contains a set of basic C++ programs focused on Dynamic Memory Allocation (DMA) concepts. Each file demonstrates a specific use of memory management, pointer operations, arrays, and patterns using dynamic allocation techniques.
 
@@ -13,6 +13,7 @@ This repository contains a set of basic C++ programs focused on Dynamic Memory A
 
 ✅ Simple logic & pattern building
 
+
 🗂️ Files and Descriptions
 
 | File Name                | Description                                 |
@@ -22,6 +23,7 @@ This repository contains a set of basic C++ programs focused on Dynamic Memory A
 | `dma-3-new-operator.cpp` | Use of `new` operator for variables         |
 | `pattern.cpp`            | Pattern printing using DMA (Task 4)         |
 | `a.exe`                  | Compiled output (can be deleted or ignored) |
+
 
 🧠 Concepts Covered
 new and delete operators
@@ -33,6 +35,7 @@ Dynamic arrays
 Pointer manipulation
 
 Basic pattern logic
+
 
 🎯 Learning Outcome
 After completing this project, you will be able to:
