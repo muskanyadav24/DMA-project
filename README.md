@@ -1,26 +1,46 @@
-Project-DMA(Dynamic Memory Allocation)
+DMA Project – C++ Practice Tasks
 
-Q-1. Write a C++ program to dynamically allocate an integer, a character and a string and assign a value to them.
+This repository contains a set of basic C++ programs focused on Dynamic Memory Allocation (DMA) concepts. Each file demonstrates a specific use of memory management, pointer operations, arrays, and patterns using dynamic allocation techniques.
 
-Q-2. Write a C++ program to dynamically allocate an array of integers and strings and initialize its elements.
+📚 Topics Covered
+✅ Pointer basics
 
-Q-3. Write a C++ program to dynamically create an object of a class using the new operator.
+✅ new and delete operators
 
-Q-4. WAP print bellow pattern.
+✅ Dynamic arrays
 
-->   
+✅ Memory management
 
-     4  4  4  4  4  4  4 
+✅ Simple logic & pattern building
 
-     4  3  3  3  3  3  4 
-     
-     4  3  2  2  2  3  4 
-     
-     4  3  2  1  2  3  4 
-     
-     4  3  2  2  2  3  4 
-     
-     4  3  3  3  3  3  4 
-     
-     4  4  4  4  4  4  4 
-     
+🗂️ Files and Descriptions
+
+| File Name                | Description                                 |
+| ------------------------ | ------------------------------------------- |
+| `dma-1-assing-value.CPP` | Assign value using dynamic memory (`new`)   |
+| `dma-2-array.cpp`        | Dynamic memory allocation for arrays        |
+| `dma-3-new-operator.cpp` | Use of `new` operator for variables         |
+| `pattern.cpp`            | Pattern printing using DMA (Task 4)         |
+| `a.exe`                  | Compiled output (can be deleted or ignored) |
+
+🧠 Concepts Covered
+new and delete operators
+
+Heap memory management
+
+Dynamic arrays
+
+Pointer manipulation
+
+Basic pattern logic
+
+🎯 Learning Outcome
+After completing this project, you will be able to:
+
+Understand how memory works in C++
+
+Write cleaner and modular programs using DMA
+
+Avoid common pitfalls in pointer handling
+
+Prepare for interviews or university-level practicals
